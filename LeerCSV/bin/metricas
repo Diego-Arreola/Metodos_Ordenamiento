@@ -1,0 +1,4 @@
+Metodo: BinaryInsertionSort Tiempo De ejecucion: 4 Intercambios: 17992 Comparaciones: 19723
+Metodo: RadixSort Tiempo De ejecucion: 0 Intercambios: 500 Comparaciones: 500
+Metodo: MergeSort Tiempo De ejecucion: 1 Intercambios: 983 Comparaciones: 983
+Metodo: QuickSort Tiempo De ejecucion: 2 Intercambios: 11757 Comparaciones: 11875
